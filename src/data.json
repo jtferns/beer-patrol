@@ -1,0 +1,492 @@
+[
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "15.0",
+    "draftPrice": "$5.0",
+    "beerAbv": "5.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "2 Towns",
+    "growlerSize": "64oz",
+    "beerName": "OutCider, Unfiltered Cider"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "23.0",
+    "draftPrice": "$7.5",
+    "beerAbv": "5.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "ASLAN",
+    "growlerSize": "64oz",
+    "beerName": "Bellingham Brown"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "ASLAN",
+    "growlerSize": "64oz",
+    "beerName": "Return Of The Mack IPA"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "21.0",
+    "draftPrice": "$7.0",
+    "beerAbv": "5.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "Anderson Valley",
+    "growlerSize": "64oz",
+    "beerName": "Boont Amber Ale"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Barley Brown's",
+    "growlerSize": "64oz",
+    "beerName": "Hazer Beam IPA"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "32.0",
+    "draftPrice": "$10.5",
+    "beerAbv": "10.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Belching Beaver",
+    "growlerSize": "64oz",
+    "beerName": "ODB BA Russian Imp. Stout"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "N/A",
+    "draftPrice": "$9.5",
+    "beerAbv": "7.7",
+    "retailLocation": "chucks-gw",
+    "brewery": "Breakside",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** Big Bug Hunter Sour"
+  },
+  {
+    "breweryOrigin": "BE",
+    "growlerPrice": "N/A",
+    "draftPrice": "$10.0",
+    "beerAbv": "7.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Brouwerij Boon",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** Oude Geuze"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "20.0",
+    "draftPrice": "$6.5",
+    "beerAbv": "4.4",
+    "retailLocation": "chucks-gw",
+    "brewery": "Chainline ",
+    "growlerSize": "64oz",
+    "beerName": "Tom Commons"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "7.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Cloudburst",
+    "growlerSize": "64oz",
+    "beerName": "Can't Hardly Wait IPA"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "21.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "2.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "CommuniTea",
+    "growlerSize": "64oz",
+    "beerName": "**12oz** Kombucha *Contains Alcohol*"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "12.0",
+    "draftPrice": "$3.0",
+    "beerAbv": "X",
+    "retailLocation": "chucks-gw",
+    "brewery": "Crater Lake",
+    "growlerSize": "64oz",
+    "beerName": "**12oz** Root Beer (Non-Alcoholic)"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "6.7",
+    "retailLocation": "chucks-gw",
+    "brewery": "Double Mountain",
+    "growlerSize": "64oz",
+    "beerName": "Dry Cider"
+  },
+  {
+    "breweryOrigin": "MI",
+    "growlerPrice": "N/A",
+    "draftPrice": "$6.0",
+    "beerAbv": "5.7",
+    "retailLocation": "chucks-gw",
+    "brewery": "Founders",
+    "growlerSize": "64oz",
+    "beerName": "R\u00fcb\u00e6us Raspberry Ale (NITRO)"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "20.0",
+    "draftPrice": "$5.0",
+    "beerAbv": "X",
+    "retailLocation": "chucks-gw",
+    "brewery": "GTS",
+    "growlerSize": "64oz",
+    "beerName": "**12oz** Gingerade Kombucha"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "6.9",
+    "retailLocation": "chucks-gw",
+    "brewery": "Georgetown",
+    "growlerSize": "64oz",
+    "beerName": "9lb Porter"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "6.6",
+    "retailLocation": "chucks-gw",
+    "brewery": "Georgetown",
+    "growlerSize": "64oz",
+    "beerName": "Andre Br\u00fct IPA"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "7.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Good Brewing",
+    "growlerSize": "64oz",
+    "beerName": "Good IPA"
+  },
+  {
+    "breweryOrigin": "CO",
+    "growlerPrice": "N/A",
+    "draftPrice": "$9.0",
+    "beerAbv": "12.6",
+    "retailLocation": "chucks-gw",
+    "brewery": "Great Divide",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** Wood Werks #3 Rye Barrel Brown"
+  },
+  {
+    "breweryOrigin": "CO",
+    "growlerPrice": "21.0",
+    "draftPrice": "$7.0",
+    "beerAbv": "10.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Great Divide",
+    "growlerSize": "64oz",
+    "beerName": "Hercules IIPA"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "26.0",
+    "draftPrice": "$8.5",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Ground Breaker",
+    "growlerSize": "64oz",
+    "beerName": "Dark Ale (Gluten Free)"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "N/A",
+    "draftPrice": "$9.5",
+    "beerAbv": "14.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Hahn Estates",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** 2016 Red Blend Wine"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "20.0",
+    "draftPrice": "$6.5",
+    "beerAbv": "4.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "Holy Mountain",
+    "growlerSize": "64oz",
+    "beerName": "The White Lodge: Belgian White"
+  },
+  {
+    "breweryOrigin": "CO",
+    "growlerPrice": "N/A",
+    "draftPrice": "$8.0",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Left Hand",
+    "growlerSize": "64oz",
+    "beerName": "Milk Stout (NITRO)"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "21.0",
+    "draftPrice": "$7.0",
+    "beerAbv": "6.3",
+    "retailLocation": "chucks-gw",
+    "brewery": "Lost Abbey",
+    "growlerSize": "64oz",
+    "beerName": "Devotion Belgian Blonde"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "26.0",
+    "draftPrice": "$8.5",
+    "beerAbv": "4.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Malus",
+    "growlerSize": "64oz",
+    "beerName": "Cranberry Ginger Mead"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "21.0",
+    "draftPrice": "$7.0",
+    "beerAbv": "9.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "Matchless",
+    "growlerSize": "64oz",
+    "beerName": "P.O.G. Milkshake IIPA"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "20.0",
+    "draftPrice": "$6.5",
+    "beerAbv": "4.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Mirage",
+    "growlerSize": "64oz",
+    "beerName": "Slug-Proof Helles Lager"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "5.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "No-Li",
+    "growlerSize": "64oz",
+    "beerName": "Spin Cycle Red"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "24.0",
+    "draftPrice": "$8.0",
+    "beerAbv": "5.4",
+    "retailLocation": "chucks-gw",
+    "brewery": "Number 6",
+    "growlerSize": "64oz",
+    "beerName": "Pomegranate Cider"
+  },
+  {
+    "breweryOrigin": "CO",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "8.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Oskar Blues",
+    "growlerSize": "64oz",
+    "beerName": "Old Chub Scotch Ale"
+  },
+  {
+    "breweryOrigin": "GER",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "5.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Paulaner",
+    "growlerSize": "64oz",
+    "beerName": "Hefe-Weissbier"
+  },
+  {
+    "breweryOrigin": "OK",
+    "growlerPrice": "N/A",
+    "draftPrice": "$8.0",
+    "beerAbv": "13.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Prairie",
+    "growlerSize": "64oz",
+    "beerName": "** 8 oz** Paradise; Imp. Vanilla Stout"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "21.0",
+    "draftPrice": "$7.0",
+    "beerAbv": "8.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Rooftop",
+    "growlerSize": "64oz",
+    "beerName": "C-Monster IIPA"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "5.2",
+    "retailLocation": "chucks-gw",
+    "brewery": "Skookum",
+    "growlerSize": "64oz",
+    "beerName": "CAN IT! Pale"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "9.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Skookum",
+    "growlerSize": "64oz",
+    "beerName": "Murder of Crows Imperial Stout"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "15.0",
+    "draftPrice": "$5.0",
+    "beerAbv": "6.4",
+    "retailLocation": "chucks-gw",
+    "brewery": "Skookum",
+    "growlerSize": "64oz",
+    "beerName": "Radagast Brown Ale"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "14.0",
+    "draftPrice": "$4.5",
+    "beerAbv": "4.8",
+    "retailLocation": "chucks-gw",
+    "brewery": "Skookum",
+    "growlerSize": "64oz",
+    "beerName": "Skookum Pilsner"
+  },
+  {
+    "breweryOrigin": "AT",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "2.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Stiegl",
+    "growlerSize": "64oz",
+    "beerName": "Grapefruit Radler"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "24.0",
+    "draftPrice": "$8.0",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Swift Cider Co",
+    "growlerSize": "64oz",
+    "beerName": "Pineapple Hop Cider"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "N/A",
+    "draftPrice": "$8.0",
+    "beerAbv": "13.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Terra Blanca",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** Chardonnay White Wine"
+  },
+  {
+    "breweryOrigin": "CA",
+    "growlerPrice": "N/A",
+    "draftPrice": "$11.0",
+    "beerAbv": "8.3",
+    "retailLocation": "chucks-gw",
+    "brewery": "The Bruery",
+    "growlerSize": "64oz",
+    "beerName": "**8oz** The Wanderer Sour"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Urban Family",
+    "growlerSize": "64oz",
+    "beerName": "Ancient Harvest: IPA with Spelt"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "6.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "Urban Family",
+    "growlerSize": "64oz",
+    "beerName": "Hypehoppopotamus IPA *EXCLUSIVE*"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "18.0",
+    "draftPrice": "$6.0",
+    "beerAbv": "6.0",
+    "retailLocation": "chucks-gw",
+    "brewery": "Wander",
+    "growlerSize": "64oz",
+    "beerName": "Lightning Flash IPA"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "20.0",
+    "draftPrice": "$6.5",
+    "beerAbv": "5.2",
+    "retailLocation": "chucks-gw",
+    "brewery": "Wet Coast",
+    "growlerSize": "64oz",
+    "beerName": "Sneak Thief Milk Stout"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "15.0",
+    "draftPrice": "$5.0",
+    "beerAbv": "6.5",
+    "retailLocation": "chucks-gw",
+    "brewery": "White Bluffs",
+    "growlerSize": "64oz",
+    "beerName": "Biere de Mars"
+  },
+  {
+    "breweryOrigin": "WA",
+    "growlerPrice": "17.0",
+    "draftPrice": "$5.5",
+    "beerAbv": "6.4",
+    "retailLocation": "chucks-gw",
+    "brewery": "Woodinville",
+    "growlerSize": "64oz",
+    "beerName": "Peach Ginger Cider"
+  },
+  {
+    "breweryOrigin": "OR",
+    "growlerPrice": "23.0",
+    "draftPrice": "$7.5",
+    "beerAbv": "10.2",
+    "retailLocation": "chucks-gw",
+    "brewery": "pFriem",
+    "growlerSize": "64oz",
+    "beerName": "Belgian Strong Dark"
+  }
+]
